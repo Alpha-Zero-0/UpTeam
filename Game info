@@ -1,0 +1,106 @@
+Opening Scene:
+Narrator: Welcome, aspiring hero, to the treacherous world of Corporate Ladderia. Here, social mobility is not a path; it’s a perilous battlefield. Will you rise to greatness, or fall into obscurity? Your journey begins at the bottom, fighting your way through the menacing gatekeepers of each stage. Victory will take you to the pinnacle of corporate success: the fabled Graduate Job. But beware, the villains of this land will stop at nothing to hold you back.
+
+Level 1: Insight Day – The Gate of Knowledge
+Level Theme: You’ve entered Insight Day Isle, where the fog of ignorance looms.
+Sub-Bosses:
+KPMGrasp – A shadowy figure hoarding knowledge, making every question feel like an interrogation.
+Accentureate – A deceptive guide who amplifies irrelevant details to mislead you.
+Main Boss: Deloitteful Liar – A false mentor who dazzles you with shiny promises but thrives on half-truths.
+Narrator: Defeat these schemers and claim the wisdom needed to advance!
+
+Level 2: Work Experience – The Pit of Proving Power
+Level Theme: A grueling proving ground with shifting challenges.
+Sub-Bosses:
+PwCraven – A cowardly yet manipulative entity who loves to shift blame.
+EYSpy – A snooping overseer who constantly questions your every move.
+Main Boss: Grant Despair – A twisted manager who dangles opportunities just out of reach.
+Narrator: Only by navigating the traps of responsibility and blame can you survive this trial.
+
+Level 3: Summer Internship – The Arena of Endurance
+Level Theme: A relentless battlefield of competition.
+Sub-Bosses:
+Slaughterhouse Cooper – A cunning rival who steals your ideas and repackages them as their own.
+MacSSSSinsley – A self-serving, snake-like entity who promises teamwork but thrives on betrayal.
+Main Boss: Prestige Predator – The merciless king of the arena who devours those without connections.
+Narrator: Triumph here will require sharp instincts and unwavering resolve.
+
+Level 4: Placement – The Labyrinth of Responsibility
+Level Theme: A twisting maze filled with professional traps.
+Sub-Bosses:
+Chaosforce – A relentless storm of shifting priorities that derails every plan.
+Bain of Existence – A brutal figure drowning you in unnecessary bureaucracy.
+Main Boss: McMonster & Company – A monstrous duo that forces endless revisions and approvals.
+Narrator: To conquer this maze, you’ll need to outwit even the most devious traps.
+
+Level 5: Graduate Job – The Tower of Triumph
+Level Theme: A towering fortress of challenges, with every floor testing a different skill.
+Sub-Bosses:
+Micro-Isn’t-Soft – A malicious system crash that forces you to rework everything.
+LinkedInferno – A sly spirit that thrives on hollow connections and false promises.
+Main Boss: The Final Citadel Guard (FCG) – A three-headed beast combining traits of the sub-bosses from every level: obstruction, sabotage, and exhaustion.
+Narrator: This is your last stand. Survive the trials of the tower to achieve the ultimate prize: a Graduate Job and the top rung of the social mobility ladder.
+Gameplay Mechanics
+
+1. Character Creation
+At the beginning, the player customizes their character by selecting traits that affect their abilities. For example:
+Confidence (affects ability to charm bosses or recover from attacks).
+Problem-Solving (affects ability to bypass traps and solve challenges).
+Networking (affects ability to gain allies or use connections).
+Players allocate a set number of points to these attributes, which will influence outcomes in battles and puzzles.
+
+2. Combat System
+Combat is turn-based and focused on strategy rather than pure strength. Players choose from a variety of actions, such as:
+Attack: Use skills or wit to weaken the boss (e.g., “Present Logical Argument”).
+Defend: Guard against incoming damage (e.g., “Request Feedback Session”).
+Special Skills: Use unique moves based on your chosen traits (e.g., “Call for Mentorship” from Networking).
+Each boss has specific vulnerabilities. For example:
+KPMGrasp is weak against Problem-Solving attacks.
+Deloitteful Liar takes extra damage from Confidence-based moves.
+
+3. Resources and Items
+Players collect resources throughout the levels:
+Skill Badges: Earned by defeating sub-bosses, unlocking new moves like “Prioritize Tasks” or “Influence Stakeholders.”
+Energy Tokens: Represent mental stamina and are consumed when performing certain actions.
+Allies: Gain allies by making the right choices during dialogue (e.g., a mentor who provides extra defense).
+Player Interactions
+Dialogue Choices
+Every boss encounter and some sub-bosses involve interactive dialogues. The choices you make will affect your combat and progression. For example:
+PwCraven: “Why should I take the blame for this?”
+
+Option 1: “Because we’re a team, and I’ll take responsibility.” (Networking +1)
+
+Option 2: “You should! It was your mistake!” (Confidence -1, but immediate progress).
+
+Skill Challenges
+Between combat, the player faces skill-based puzzles, such as:
+Organizing a chaotic work schedule to meet competing deadlines.
+Solving riddles posed by bosses like EYSpy.
+Networking to find hidden paths in the labyrinth (Level 4).
+Win/Lose Conditions
+Victory Conditions
+Defeat all bosses across the five levels.
+Collect all 5 Corporate Ladder Keys (awarded by defeating main bosses).
+Reach the top of the Tower of Triumph and overcome The Struggle (final boss).
+Failure Conditions
+Energy Depletion: Running out of Energy Tokens means mental burnout, forcing you to restart the level.
+Missed Opportunities: Failing certain skill challenges can prevent progression or weaken your character for later levels.
+Alternate Endings
+True Victory: Achieve the Graduate Job and gain recognition as the Corporate Hero.
+Partial Success: Secure a mid-level position due to incomplete progress (e.g., missing a Ladder Key).
+Failure Ending: Burn out in the middle of the journey, resigning to a less fulfilling path (but with lessons learned).
+Example Gameplay Scenarios
+Scenario 1: Combat with KPMGrasp
+KPMGrasp: “What qualifies you to ask me these questions?”
+Player Action: “Use Problem-Solving” → “Present Clear Evidence”.
+Result: KPMGrasp falters, losing 20% confidence.
+KPMGrasp attacks: “Obfuscate with Jargon”.
+Player Action: “Use Networking” → “Call for Peer Input”.
+Result: Countered! KPMGrasp’s attack is weakened.
+Scenario 2: Navigating Placement Labyrinth
+A fork in the maze offers two paths:
+Left: An easier route but costs 3 Energy Tokens.
+Right: A more challenging puzzle with a potential ally reward.
+Player decides to solve the puzzle, unlocking Bain Sufferer, who provides a temporary boost to Problem-Solving for the next boss.
+
+
